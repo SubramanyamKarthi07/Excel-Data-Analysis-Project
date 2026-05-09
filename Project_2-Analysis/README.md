@@ -1,4 +1,8 @@
 # 📈 Excel Data Analysis Project
+
+- Pivot Tables
+- Pivot Charts
+- SUMIFS
 - COUNTIFS
 - XLOOKUP / VLOOKUP
 - Conditional Formatting
@@ -68,5 +72,6 @@ Performed end-to-end data analysis in Excel, including cleaning, calculations, p
 - LinkedIn: https://www.linkedin.com/in/subramanyam-karthi-981b7b2b8?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
+
 
 ## ⭐ If you found this project useful, please star the repository!
